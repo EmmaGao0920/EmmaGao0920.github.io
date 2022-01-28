@@ -5,4 +5,4 @@ navigation_weight: 1
 ---
 
 ## About me
-![Headshot](/media/headshot.png)
+<img src="/media/headshot.png" alt="headshot" style="width=200px;">
